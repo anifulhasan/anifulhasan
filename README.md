@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @anifulhasan
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java.
-- 📫 How to reach me? anifulhasan700@gmail.com
+- Hi, I’m @anifulhasan
+- I’m interested in programming.
+- I’m currently learning Java.
+- Currently my Projects are Private. I will publish them again soon!
+- How to reach me? anifulhasan700@gmail.com
 
 <!---
 anifulhasan/anifulhasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
